@@ -1,5 +1,5 @@
 ### Hi there 👋 
-My name is Gs1lver and I'm a student of System Development at UNICAMP. 
+My name is Gs1lver and I'm a student of System Development at UNICAMP.  
 I'm currently learning PHP, Javascript, Astro, Bootstrap, Java and Flutter. 
 
 <div align="center">
