@@ -1,6 +1,6 @@
 ### Hi there 👋 
 My name is Gs1lver and I'm a student of System Development at UNICAMP.  
-I'm currently learning PHP, Javascript, Astro, Bootstrap, Java and Flutter. 
+I'm currently learning PHP, Javascript, Astro, Bootstrap, Java, Flutter and C++ with Arduino Uno. 
 
 <div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Gs1lver&show_icons=true&theme=github_dark&count_private=true">
