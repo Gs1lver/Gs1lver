@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **alebasiwork@gmail.com**
 
-- ⚡ Fun fact **I also draw :>**
+- ⚡ Fun fact **I like to draw and illustrate**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
