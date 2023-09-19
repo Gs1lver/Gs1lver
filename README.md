@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Flutter and C++**
 
-- 💬 Ask me about **CSS and HTML**
+- 💬 Ask me about **CSS. HTML and Flutter**
 
 - 📫 How to reach me **alebasiwork@gmail.com**
 
