@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Silver</h1>
 <h3 align="center">An ascending frontend developer and ux/ui designer</h3>
 
-- 🔭 I’m currently working on **Commandee**
+- 🔭 I’m currently working on **My own Portfolio**
 
-- 🌱 I’m currently learning **Flutter, Astro and Javascript**
+- 🌱 I’m currently learning **Flutter and Javascript**
 
-- 🤝 I’m looking for help with **Flutter and C++**
+- 🤝 I’m looking for help with **Dart and Typescript**
 
 - 💬 Ask me about **CSS. HTML and Flutter**
 
