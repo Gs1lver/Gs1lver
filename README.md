@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Isabela</h1>
 <h3 align="center">An ascending frontend developer and ux/ui designer</h3>
 
-- 🔭 I’m currently working on **My own Portfolio**
+- 🔭 I’m currently working on **Pokedex Project**
 
-- 🌱 I’m currently learning **Flutter and Javascript**
+- 🌱 I’m currently learning **React.js and Typescript**
 
 - 🤝 I’m looking for help with **Dart and Typescript**
 
